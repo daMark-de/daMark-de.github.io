@@ -4,3 +4,4 @@ Mr. Spock is a character in the Star Treck universe. He grew up on planet vulcan
 * logical
 * loyal
 * excelent scientist
+> fascinating!
